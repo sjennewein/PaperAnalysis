@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PaperAnalysis.iml" filepath="$PROJECT_DIR$/.idea/modules/PaperAnalysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PaperAnalysis_main.iml" filepath="$PROJECT_DIR$/.idea/modules/PaperAnalysis_main.iml" group="PaperAnalysis" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PaperAnalysis_test.iml" filepath="$PROJECT_DIR$/.idea/modules/PaperAnalysis_test.iml" group="PaperAnalysis" />
+    </modules>
+  </component>
+</project>
